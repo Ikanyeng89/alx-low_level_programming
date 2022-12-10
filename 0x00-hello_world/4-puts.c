@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * Description:'The program prits a message with puts'
+ *
  * return:Always 0 (success)
  */
 
