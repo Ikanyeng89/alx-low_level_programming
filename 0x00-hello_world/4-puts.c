@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - print out the message with puts function
  *
- * Description:'The program prits a message with puts'
+ * Description: prits a message with puts
  *
  * return:Always 0 (success)
  */
