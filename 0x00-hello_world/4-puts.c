@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - print out the message with puts function
+ * main - Entry point
  *
  * Description: prits a message with puts
  *
- * return:Always 0 (success)
+ * return: Always 0 (success)
  */
 
 /* Return 0 (success)*/
