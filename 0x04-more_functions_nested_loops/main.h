@@ -10,6 +10,6 @@
  * Return: 1 if uppercase or  0 if lower case character.
  */
 
-int _putchar(int c);
+int _putchar(char c);
 
 #endif
