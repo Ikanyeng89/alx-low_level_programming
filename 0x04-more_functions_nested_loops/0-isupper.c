@@ -9,7 +9,7 @@
 
 int _putchar(char c)
 {
-	if (isupper(c))
+	if (c >= 'A' && c <= 'Z')
 	{
 		return (1);
 	}
