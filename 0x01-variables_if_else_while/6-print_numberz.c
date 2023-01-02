@@ -5,7 +5,7 @@
  * Return: Always return 0 (success)
  */
 
-inr main(void)
+int main(void)
 {
 	int c;
 
