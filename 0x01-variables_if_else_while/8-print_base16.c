@@ -8,15 +8,23 @@
 
 int main(void)
 {
-	int c;
+	char c;
+	int d;
 
-	c = 0;
+	c = 'a';
 
-	while (c <= 16)
+	while (d < 10)
 	{
-		putchar(c + '0');
+		putchar(d + '0');
+		d++;
+	}
+
+	while (c <= 'f')
+	{
+		putchar(c);
 		c++;
 	}
+
 	putchar('\n');
 
 	return (0);
